@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Umpire.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Unreal_Project\ChatBaseball\ChatBaseBall\Intermediate\Build\Win64\x64\ChatBaseBallEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"C:\Unreal_Project\ChatBaseball\ChatBaseBall\Plugins\Umpire\Intermediate\Build\Win64\x64\UnrealEditor\Development\Umpire\Umpire.cpp.obj"
+"C:\Unreal_Project\ChatBaseball\ChatBaseBall\Plugins\Umpire\Intermediate\Build\Win64\x64\UnrealEditor\Development\Umpire\UmpireBPLibrary.cpp.obj"
+"C:\Unreal_Project\ChatBaseball\ChatBaseBall\Plugins\Umpire\Intermediate\Build\Win64\x64\UnrealEditor\Development\Umpire\PerModuleInline.gen.cpp.obj"
+"C:\Unreal_Project\ChatBaseball\ChatBaseBall\Plugins\Umpire\Intermediate\Build\Win64\x64\UnrealEditor\Development\Umpire\Umpire.init.gen.cpp.obj"
+"C:\Unreal_Project\ChatBaseball\ChatBaseBall\Plugins\Umpire\Intermediate\Build\Win64\x64\UnrealEditor\Development\Umpire\UmpireBPLibrary.gen.cpp.obj"
+"C:\Unreal_Project\ChatBaseball\ChatBaseBall\Plugins\Umpire\Intermediate\Build\Win64\x64\UnrealEditor\Development\Umpire\Default.rc2.res"
+/OUT:"C:\Unreal_Project\ChatBaseball\ChatBaseBall\Plugins\Umpire\Intermediate\Build\Win64\x64\UnrealEditor\Development\Umpire\UnrealEditor-Umpire.lib"

@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unreal_project\\chatbaseball\\chatbaseball\\plugins\\umpire\\intermediate\\build\\win64\\unrealeditor\\inc\\umpire\\uht\\umpirebplibrary.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unreal_project\\chatbaseball\\chatbaseball\\intermediate\\build\\win64\\x64\\chatbaseballeditor\\debuggame\\unrealed\\sharedpch.unrealed.project.nonoptimized.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\unreal_project\\chatbaseball\\chatbaseball\\plugins\\umpire\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\umpire\\definitions.umpire.h",
+            "c:\\unreal_project\\chatbaseball\\chatbaseball\\plugins\\umpire\\source\\umpire\\public\\umpirebplibrary.h",
+            "c:\\unreal_project\\chatbaseball\\chatbaseball\\plugins\\umpire\\intermediate\\build\\win64\\unrealeditor\\inc\\umpire\\uht\\umpirebplibrary.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

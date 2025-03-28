@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ChatBaseBall-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Unreal_Project\ChatBaseball\ChatBaseBall\Intermediate\Build\Win64\x64\ChatBaseBallEditor\DebugGame\UnrealEd\SharedPCH.UnrealEd.Project.NonOptimized.ValApi.Cpp20.h.obj"
+"C:\Unreal_Project\ChatBaseball\ChatBaseBall\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\ChatBaseBall\ChatBaseBall.cpp.obj"
+"C:\Unreal_Project\ChatBaseball\ChatBaseBall\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\ChatBaseBall\PerModuleInline.gen.cpp.obj"
+"C:\Unreal_Project\ChatBaseball\ChatBaseBall\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\ChatBaseBall\Default.rc2.res"
+/OUT:"C:\Unreal_Project\ChatBaseball\ChatBaseBall\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\ChatBaseBall\UnrealEditor-ChatBaseBall-Win64-DebugGame.lib"

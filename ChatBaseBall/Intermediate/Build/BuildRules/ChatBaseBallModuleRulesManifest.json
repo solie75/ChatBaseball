@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"C:\\Unreal_Project\\ChatBaseball\\ChatBaseBall\\Source\\ChatBaseBall\\ChatBaseBall.Build.cs",
+		"C:\\Unreal_Project\\ChatBaseball\\ChatBaseBall\\Plugins\\Umpire\\Source\\Umpire\\Umpire.Build.cs",
+		"C:\\Unreal_Project\\ChatBaseball\\ChatBaseBall\\Source\\ChatBaseBall.Target.cs",
+		"C:\\Unreal_Project\\ChatBaseball\\ChatBaseBall\\Source\\ChatBaseBallEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}

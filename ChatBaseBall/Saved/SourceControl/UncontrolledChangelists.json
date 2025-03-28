@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Unreal_Project/ChatBaseball/ChatBaseBall/Content/Level/Level_1.umap",
+				"C:/Unreal_Project/ChatBaseball/ChatBaseBall/Content/Widget/WBP_InputBall.uasset",
+				"C:/Unreal_Project/ChatBaseball/ChatBaseBall/Content/BP/BP_GameMode.uasset",
+				"C:/Unreal_Project/ChatBaseball/ChatBaseBall/Content/BP/BP_PlayerController.uasset"
+			]
+		}
+	]
+}

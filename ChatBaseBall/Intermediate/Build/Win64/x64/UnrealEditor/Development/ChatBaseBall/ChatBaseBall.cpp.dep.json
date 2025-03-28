@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unreal_project\\chatbaseball\\chatbaseball\\source\\chatbaseball\\chatbaseball.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unreal_project\\chatbaseball\\chatbaseball\\intermediate\\build\\win64\\x64\\chatbaseballeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\unreal_project\\chatbaseball\\chatbaseball\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\chatbaseball\\definitions.chatbaseball.h",
+            "c:\\unreal_project\\chatbaseball\\chatbaseball\\source\\chatbaseball\\chatbaseball.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

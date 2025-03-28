@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ChatBaseBall.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ChatBaseBall.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ChatBaseBallEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{BB38096A-B391-30DC-A0D4-4F3EA6B44507}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\Umpire">
+      <UniqueIdentifier>{BE6DB90E-92E2-39D5-8651-7B5254C7052A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\Umpire\Source">
+      <UniqueIdentifier>{FDF8AFF9-BB51-378A-B40B-784AEEC87638}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\Umpire\Source\Umpire">
+      <UniqueIdentifier>{0A2FE55D-F4F2-3BEF-B169-F3F9827810B5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\Umpire\Source\Umpire\Umpire.Build.cs">
+      <Filter>Plugins\Umpire\Source\Umpire</Filter>
+    </None>
+    <Filter Include="Plugins\Umpire\Source\Umpire\Private">
+      <UniqueIdentifier>{B02A342A-3BE5-3688-ADD1-E18FA84CE901}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\Umpire\Source\Umpire\Private\Umpire.cpp">
+      <Filter>Plugins\Umpire\Source\Umpire\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Umpire\Source\Umpire\Private\UmpireBPLibrary.cpp">
+      <Filter>Plugins\Umpire\Source\Umpire\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\Umpire\Source\Umpire\Public">
+      <UniqueIdentifier>{6682743D-A8A9-3BC6-8502-88792267818E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\Umpire\Source\Umpire\Public\Umpire.h">
+      <Filter>Plugins\Umpire\Source\Umpire\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\Umpire\Source\Umpire\Public\UmpireBPLibrary.h">
+      <Filter>Plugins\Umpire\Source\Umpire\Public</Filter>
+    </ClCompile>
+    <None Include="..\..\Plugins\Umpire\Umpire.uplugin">
+      <Filter>Plugins\Umpire</Filter>
+    </None>
+    <Filter Include="Plugins\Umpire\Resources">
+      <UniqueIdentifier>{CDCA644B-6B5F-3E87-B238-3B4B60A80F07}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\Umpire\Resources\Icon128.png">
+      <Filter>Plugins\Umpire\Resources</Filter>
+    </None>
+    <Filter Include="Source\ChatBaseBall">
+      <UniqueIdentifier>{47CE9468-7998-31B0-86AE-804F2CAA0E68}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ChatBaseBall\ChatBaseBall.Build.cs">
+      <Filter>Source\ChatBaseBall</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ChatBaseBall\ChatBaseBall.cpp">
+      <Filter>Source\ChatBaseBall</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ChatBaseBall\ChatBaseBall.h">
+      <Filter>Source\ChatBaseBall</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
