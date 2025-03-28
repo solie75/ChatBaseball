@@ -1,5 +1,12 @@
 {
 	"RemapUnityFiles": 
 	{
+		"Module.Umpire.cpp.obj": [
+			"Umpire.init.gen.cpp.obj",
+			"UmpireBPLibrary.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"Umpire.cpp.obj",
+			"UmpireBPLibrary.cpp.obj"
+		]
 	}
 }
